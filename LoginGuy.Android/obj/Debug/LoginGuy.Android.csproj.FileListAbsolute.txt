@@ -1,0 +1,12 @@
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/LoginGuy.Android.nuget.stamp
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/LoginGuy.Android.csprojAssemblyReference.cache
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/libraryimports.cache.stamp
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/res.flag
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/App.xaml.g.cs
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/MainPage.xaml.g.cs
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/Views/Logins/LoginPage.xaml.g.cs
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/Views/Logins/LoginFrontPage.xaml.g.cs
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/Views/SignUp/SignUpFrontPage.xaml.g.cs
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/Views/SignUp/SignUpPage.xaml.g.cs
+/Users/admin/Projects/LoginGuy/LoginGuy.Android/obj/Debug/LoginGuy.Android.csproj.CoreCompileInputs.cache

@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{25DCC1B6-A251-4A8B-8242-3AB0FE78CC51}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginGuy/Views/Logins/LoginFrontPage.xaml.cs">
+    <Files>
+      <File FileName="LoginGuy/Views/SignUp/SignUpFrontPage.xaml" Line="53" Column="1" />
+      <File FileName="LoginGuy/Views/SignUp/SignUpPage.xaml" />
+      <File FileName="LoginGuy/App.xaml" />
+      <File FileName="LoginGuy/App.xaml.cs" />
+      <File FileName="LoginGuy/Views/Logins/LoginFrontPage.xaml.cs" Line="14" Column="1" />
+      <File FileName="LoginGuy.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="LoginGuy/Views/Logins/LoginFrontPage.xaml" Line="1" Column="1" />
+      <File FileName="LoginGuy/Views/Logins/LoginPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoginGuy" expanded="True">
+            <Node name="LoginGuy" expanded="True">
+              <Node name="Effects" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Logins" expanded="True">
+                  <Node name="LoginFrontPage.xaml" expanded="True">
+                    <Node name="LoginFrontPage.xaml.cs" selected="True" />
+                  </Node>
+                  <Node name="LoginPage.xaml" expanded="True" />
+                </Node>
+                <Node name="SignUp" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="LoginGuy.iOS" expanded="True">
+              <Node name="Effects" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LoginGuy FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LoginGuy.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.ItemProperties.LoginGuy.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C9373B06-1C81-404E-BD39-DA82AC51E7FD" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
