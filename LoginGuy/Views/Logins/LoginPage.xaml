@@ -52,7 +52,7 @@
                          BackgroundColor="Gray"
                          HorizontalOptions="FillAndExpand"/>
 
-                <Label Text="Forgot password" 
+                <Label Text="Forgot password ?" 
                         HorizontalOptions="Center" 
                         TextColor="{StaticResource primary}"/>
             </StackLayout>
